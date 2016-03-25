@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-385ac7b8f3bff4f9b1f55a00d112f0a90e574e3a.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-a42c84770bbb3e40b688d039b84e3556f39eaa05.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-9a58baad0bf9b2a7716aa1668ebae96085716982.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-8a02e5a56caaefcc7ddd433fc95f80c1e8089889.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-4f1d314e475693576272afe2d75e528a63c60f53.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-a20a72fc3a84ff61eb55d59a73a82538a4c8c1f2.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/glide-3.6.1-8e37e2e0b444426696cbb06734c1a3ef19b31005.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-63769b57f19325ab9952b523455a7b1f35180369.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-b657f978f547ef123ce45834c3b8608a3d7cb138.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-0478205698eb91af1b17d8b6626c3e9422db3858.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-ccb755b4e7f56ebaf660fed7ba2fd22e9cf58a85.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-5fbce494d9b99607132895d8be41281ebbddb2fb.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-83e6360dac59d15c16164a9ae9e232948b7677dd.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-a7a053092396fcd855405a5f46381d1381576b71.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/exploded-aar/HackathonApp/Shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a846b44020348103ea22f5e6ff0121051466c8e7">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-1be14e2147b95b884273bf89d467273ffb19a69c.jar" />
+    </item>
+    <item
+        jar="/home/flerchy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/flerchy/AndroidStudioProjects/HackathonApp/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-fd7bd3eea5ce82a1842323ad14705275d1e82908.jar" />
+    </item>
+
+</items>
