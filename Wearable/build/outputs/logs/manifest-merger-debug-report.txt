@@ -1,15 +1,15 @@
 -- Merging decision tree log ---
 manifest
 ADDED from AndroidManifest.xml:18:1
+	xmlns:tools
+		ADDED from AndroidManifest.xml:19:5
+	xmlns:android
+		ADDED from AndroidManifest.xml:18:11
 	package
 		ADDED from AndroidManifest.xml:20:5
 	android:versionName
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
-	xmlns:tools
-		ADDED from AndroidManifest.xml:19:5
-	xmlns:android
-		ADDED from AndroidManifest.xml:18:11
 	android:versionCode
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
@@ -19,16 +19,16 @@ ADDED from AndroidManifest.xml:22:5
 		ADDED from AndroidManifest.xml:22:19
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from AndroidManifest.xml:24:5
-	tools:node
-		ADDED from AndroidManifest.xml:24:78
 	android:name
 		ADDED from AndroidManifest.xml:24:22
+	tools:node
+		ADDED from AndroidManifest.xml:24:78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from AndroidManifest.xml:25:5
-	tools:node
-		ADDED from AndroidManifest.xml:25:79
 	android:name
 		ADDED from AndroidManifest.xml:25:22
+	tools:node
+		ADDED from AndroidManifest.xml:25:79
 uses-sdk
 ADDED from AndroidManifest.xml:27:5
 MERGED from com.google.android.gms:play-services-location:8.4.0:18:5
@@ -143,10 +143,10 @@ MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
-	android:value
-		ADDED from AndroidManifest.xml:54:13
 	android:name
 		ADDED from AndroidManifest.xml:53:20
+	android:value
+		ADDED from AndroidManifest.xml:54:13
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from com.google.android.gms:play-services-maps:8.4.0:20:5
 MERGED from com.google.android.gms:play-services-maps:8.4.0:20:5
@@ -160,10 +160,10 @@ MERGED from com.google.android.gms:play-services-maps:8.4.0:21:5
 uses-feature#0x00020000
 ADDED from com.google.android.gms:play-services-maps:8.4.0:22:5
 MERGED from com.google.android.gms:play-services-maps:8.4.0:22:5
-	android:glEsVersion
-		ADDED from com.google.android.gms:play-services-maps:8.4.0:23:8
 	android:required
 		ADDED from com.google.android.gms:play-services-maps:8.4.0:24:8
+	android:glEsVersion
+		ADDED from com.google.android.gms:play-services-maps:8.4.0:23:8
 activity#android.support.v7.widget.TestActivity
 ADDED from com.android.support:recyclerview-v7:22.0.0:23:9
 	android:label

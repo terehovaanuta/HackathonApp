@@ -49,20 +49,21 @@ public class TouristAttractions {
     /**
      * All photos used with permission under the Creative Commons Attribution-ShareAlike License.
      */
+
     public static final HashMap<String, List<Attraction>> ATTRACTIONS =
             new HashMap<String, List<Attraction>>() {{
 
         put(CITY_SYDNEY, new ArrayList<Attraction>() {{
             add(new Attraction(
-                    "Sydney Opera House",
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae bibendum justo, vitae cursus velit. Suspendisse potenti.",
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae bibendum justo, vitae cursus velit. Suspendisse potenti. Suspendisse scelerisque risus justo, non tincidunt nibh blandit et. Vivamus elit lacus, luctus nec erat in, pharetra semper turpis. Quisque viverra nulla ligula, non pulvinar ante dictum sit amet. Vestibulum aliquet tortor mauris, vel suscipit nisl malesuada eget. Aliquam maximus dictum euismod. Maecenas leo quam, volutpat id diam eget, placerat fringilla ipsum. Nam pretium vehicula augue quis euismod.\n\nNam sed blandit magna. Vestibulum a fermentum arcu. Vestibulum et ligula at nisi luctus facilisis. Proin fermentum enim a nibh commodo finibus. Suspendisse justo elit, vulputate ut ipsum at, pellentesque auctor massa. Praesent vestibulum erat interdum imperdiet dapibus. In hac habitasse platea dictumst. Proin varius orci vitae tempor vulputate.\n\nEtiam sed mollis orci. Integer et ex sed tortor scelerisque blandit semper id libero. Nulla facilisi. Pellentesque tempor magna eget massa ultrices, et efficitur lectus finibus.",
-                    Uri.parse("https://lh5.googleusercontent.com/-7fb5ybQhUbo/VGLWjIL4RmI/AAAAAAAAACM/2jLe_msj_tk/w600-no/IMG_0049.JPG"),
-                    Uri.parse("https://lh3.googleusercontent.com/-EFEw6s7mT6I/VGLkCH4Xt4I/AAAAAAAAADY/ZlznhaQvb8E/w600-no/DSC_2775.JPG"),
-                    new LatLng(-33.858667, 151.214028),
+                    "",
+                    "",
+                    "",
+                    Uri.parse("http://worldleadingvacations.com/wp-content/uploads/2015/10/app.jpg"),
+                    Uri.parse("http://worldleadingvacations.com/wp-content/uploads/2015/10/app.jpg"),
+                    new LatLng(-33.858667, 151.2068896),
                     CITY_SYDNEY
             ));
-
+            /*
             add(new Attraction(
                     "Sydney Harbour Bridge",
                     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut nulla neque. Morbi nec felis vel neque rhoncus malesuada.",
@@ -102,6 +103,7 @@ public class TouristAttractions {
                     new LatLng(-33.843333, 151.241111),
                     CITY_SYDNEY
             ));
+            */
         }});
 
     }};

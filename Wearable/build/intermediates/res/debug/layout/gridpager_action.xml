@@ -27,4 +27,4 @@
     android:maxLines="1"
     android:color="@color/colorPrimary"
     app:buttonRippleColor="@color/colorAccent" />
-<!-- From: file:/home/flerchy/AndroidStudioProjects/HackathonApp/Wearable/src/main/res/layout/gridpager_action.xml -->
+<!-- From: file:/home/ann/HackathonApp/Wearable/src/main/res/layout/gridpager_action.xml -->
