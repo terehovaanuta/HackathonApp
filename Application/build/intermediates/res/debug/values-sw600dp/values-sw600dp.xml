@@ -25,6 +25,11 @@
     <eat-comment/>
     <dimen name="image_size">200dp</dimen>
     <dimen name="keyline2">80dp</dimen>
+    <!-- From: file:/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-sw600dp/values-sw600dp.xml -->
+    <eat-comment/>
+    <dimen name="mr_media_route_controller_art_max_height">480dp</dimen>
+    <!-- From: file:/home/ann/HackathonApp/Application/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
     <dimen name="small_margin">12dp</dimen>
     <dimen name="standard_margin">24dp</dimen>
     <dimen name="tiny_margin">8dp</dimen>

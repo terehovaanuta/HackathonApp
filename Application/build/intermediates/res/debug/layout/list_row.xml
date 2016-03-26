@@ -34,6 +34,13 @@
             android:scaleType="centerCrop"
             android:transitionName="image" />
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
         <TextView
             android:id="@+id/overlaytext"
             android:layout_width="@dimen/image_size"
@@ -69,6 +76,12 @@
             android:maxLines="4"
             style="?android:textAppearanceSmall"
             tools:text="Description goes here" />
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.MapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
 
     </RelativeLayout>
 

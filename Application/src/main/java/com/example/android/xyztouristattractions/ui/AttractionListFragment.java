@@ -40,6 +40,7 @@ import com.example.android.xyztouristattractions.common.Utils;
 import com.example.android.xyztouristattractions.provider.TouristAttractions;
 import com.example.android.xyztouristattractions.service.UtilityService;
 import com.google.android.gms.location.FusedLocationProviderApi;
+import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.maps.android.SphericalUtil;
 
@@ -60,6 +61,9 @@ public class AttractionListFragment extends Fragment {
     private LatLng mLatestLocation;
     private int mImageSize;
     private boolean mItemClicked;
+
+    static final LatLng TutorialsPoint = new LatLng(21 , 57);
+    private GoogleMap googleMap;
 
     public AttractionListFragment() {}
 
