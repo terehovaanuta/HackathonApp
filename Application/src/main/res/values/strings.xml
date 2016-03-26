@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2015 Google Inc. All rights reserved.
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -47,5 +46,6 @@ appear further down your stream
     <string name="action_map">Show on Map</string>
     <string name="permission_explanation">Allow this app to use your location to show distance to attractions?</string>
     <string name="permission_explanation_action">Let\'s do it!</string>
+    <string name="google_app_id">AIzaSyCKdccI36zIKAJQavGg8WikrE4HN8hySK0</string>
 
 </resources>

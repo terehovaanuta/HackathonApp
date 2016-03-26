@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/Application" />
             <option value="$PROJECT_DIR$/Shared" />
             <option value="$PROJECT_DIR$/Wearable" />
+            <option value="$PROJECT_DIR$/json-simple-1.1.1" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -2,69 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-22fb4dd576c3b81aab33b3db4205c34f6c539a5a.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-851b9bac724152fdb021feb2539888ff088a8a87.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-a2ff10f516599c164372e808f1991f4f859afa8d.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-af37a25a2f6820b1f4b6693cb79fb3d8e22a1b11.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-2b84b01974135a9f25c62d320adf493d5e038abe.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-49380ff9b192fd01405cf7b156be15824b1382f7.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-183026d199f0cffbfda275d4e9e2e352f901e253.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-632faf2bb970785d7abe5e6aac75ad639c624c0c.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-6ac547f33c1954231587803a9cc96076856044b7.jar" />
-    </item>
-    <item
         jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -72,39 +9,11 @@
         <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-367c6b96c328f526155e32692aaa375b8fff406c.jar" />
     </item>
     <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-52abf3a910bab6ed220dd37cef40cf6e67b9b634.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-f21f9d703f8767e991d7acb9f5cdcbf04789a787.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-0caf2b7dd45631691c23cdce45053df862d3e807.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-f29810c09b71e93d3105710235cc49550a9f9165.jar" />
-    </item>
-    <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-091b24628b928728d1e8047e0273a2337bb0c12a.jar" />
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-6ac547f33c1954231587803a9cc96076856044b7.jar" />
     </item>
     <item
         jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
@@ -121,11 +30,39 @@
         <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-244fe3bd55cc835314db66d5667b315402790d30.jar" />
     </item>
     <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-3c7c49a93551af5ab26854f85b27fde214d71569.jar" />
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-84a28fa7157f2c60805d7b2aa72368fe587f7d2b.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/design/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd688796dadc28f7f95db229cbfdaf91ebbb0d61">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-1295ed39d50b9213c5ca79f74edde75fef323448.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-851b9bac724152fdb021feb2539888ff088a8a87.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-183026d199f0cffbfda275d4e9e2e352f901e253.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c449a8b23f9b989a814220af893445b382a0b50d">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-a80c66a451216144e5b801afc0b9ed696d17fc2e.jar" />
     </item>
     <item
         jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
@@ -135,6 +72,27 @@
         <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-d10b5de7a9f3be93f1df8a875615e7457dae2c63.jar" />
     </item>
     <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-2b84b01974135a9f25c62d320adf493d5e038abe.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1-6bfc23c3a97b058b91a15b070d28990d637bda6e.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-52abf3a910bab6ed220dd37cef40cf6e67b9b634.jar" />
+    </item>
+    <item
         jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -142,11 +100,123 @@
         <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-68d755e44c4b6526f1ae8a5b511cd75269bfc9e6.jar" />
     </item>
     <item
-        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-84a28fa7157f2c60805d7b2aa72368fe587f7d2b.jar" />
+        sha1="ba75da866b3d975ca7a9fbdbcd61de67932e0052">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1-c27613317f7a25e78f76e633795f7e978e567a13.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-204f3be9ecdfe748ca0a6cb8ce94c0c3fb8aa4b1.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-0caf2b7dd45631691c23cdce45053df862d3e807.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-c3e613ec4601066998d19daaa02bd15b76970507.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-091b24628b928728d1e8047e0273a2337bb0c12a.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-49380ff9b192fd01405cf7b156be15824b1382f7.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-a2ff10f516599c164372e808f1991f4f859afa8d.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-ec53c731b3619dbb0e4604738b357798cff038fd.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-8f3017a184515bf437cfb70c28870fa147ee6ef8.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-f21f9d703f8767e991d7acb9f5cdcbf04789a787.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-b7a78d5ede4b2c1a39c531b992da0cf974ac32e9.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-22fb4dd576c3b81aab33b3db4205c34f6c539a5a.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-3c7c49a93551af5ab26854f85b27fde214d71569.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-af37a25a2f6820b1f4b6693cb79fb3d8e22a1b11.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-632faf2bb970785d7abe5e6aac75ad639c624c0c.jar" />
+    </item>
+    <item
+        jar="/home/ann/HackathonApp/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/classes-f29810c09b71e93d3105710235cc49550a9f9165.jar" />
+    </item>
+    <item
+        jar="/home/ann/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/home/ann/HackathonApp/Application/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1-0da550f70f0259aba9a6166a4630ce91a3e253b6.jar" />
     </item>
 
 </items>

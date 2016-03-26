@@ -2,5 +2,6 @@
 <resources>
     <!-- From: file:/home/ann/HackathonApp/Application/src/main/res/values-w820dp/dimens.xml -->
     <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
     <integer name="list_columns">2</integer>
 </resources>

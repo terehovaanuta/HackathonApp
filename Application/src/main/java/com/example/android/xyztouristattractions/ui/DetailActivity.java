@@ -61,10 +61,10 @@ public class DetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String attraction = getIntent().getStringExtra(EXTRA_ATTRACTION);
-        if (savedInstanceState == null) {
-            getSupportFragmentManager().beginTransaction()
-                    .add(R.id.container, DetailFragment.createInstance(attraction))
-                    .commit();
-        }
+//        if (savedInstanceState == null) {
+//            getSupportFragmentManager().beginTransaction()
+//                    .add(R.id.container, DetailFragment.createInstance(attraction))
+//                    .commit();
+//        }
     }
 }
